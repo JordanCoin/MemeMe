@@ -41,5 +41,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>To take a photo for a meme!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To add a photo already taken to create a meme!</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>let us save your meme!</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>impact.tff</string>
+	</array>
 </dict>
 </plist>
